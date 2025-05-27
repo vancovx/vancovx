@@ -1,8 +1,8 @@
 # 👋 ¡Hola! Soy Vanessa Covrig
 
-Soy estudiante de **Ingeniería Multimedia** en la Universidad de Alicante, interesada en el **desarrollo Backend**. Mi enfoque principal está en tecnologías web modernas y el desarrollo Full-Stack.
+Soy estudiante de **Ingeniería Multimedia** en la Universidad de Alicante, con interés en el **desarrollo Backend**. Mi enfoque principal está en tecnologías web modernas y el desarrollo Full-Stack.
 
-- 💡 Interesada en la intersección entre multimedia y backend.
+- 💡 Interesada en la intersección entre Multimedia y Backend.
 - 🎯 Buscando oportunidades de prácticas.
 - 📍 Ubicada en Alicante, España
 
@@ -21,29 +21,22 @@ Soy estudiante de **Ingeniería Multimedia** en la Universidad de Alicante, inte
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+### Tools & Others
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
 ### Multimedia & 3D
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
 
-### Tools & Others
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-
 ## 🚀 Proyectos Destacados
 
-### 🌐 [Sistema de Gestión Web Full-Stack](https://github.com/vanessacovrig/proyecto-fullstack)
+### 🌐 [Aplicación de Gestión de Assets con MERN](https://github.com/vancovx/BULL3D)
 **Tech Stack:** Node.js, Express, MongoDB, Angular.
-- API RESTful completa con autenticación JWT
-- Frontend Angular con gestión de estado
-- CRUD operations y validaciones robustas
+- API RESTful completa con autenticación JWT.
+- Frontend React con gestión de estado.
+- CRUD operations y validaciones robustas.
 
-
-### 🔧 [Microservicio de Autenticación](https://github.com/vanessacovrig/auth-microservice)
-**Tech Stack:** Node.js, JWT, bcrypt.
-- Arquitectura de microservicios
-- Documentación API con Swagger
 
 ## 🎓 Formación & Certificaciones
 
