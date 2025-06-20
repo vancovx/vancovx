@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Vanessa Covrig
+# 👋 ¡Hi! I'm Vanessa Covrig
 
 Soy estudiante de **Ingeniería Multimedia** en la Universidad de Alicante, con interés en el **desarrollo Backend**. Mi enfoque principal está en tecnologías web modernas y el desarrollo Full-Stack.
 
@@ -15,6 +15,7 @@ Soy estudiante de **Ingeniería Multimedia** en la Universidad de Alicante, con 
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 ### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
