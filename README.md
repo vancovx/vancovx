@@ -3,7 +3,7 @@ I'm a **Multimedia Engineering** student at the University of Alicante, with an 
 - 💡 Interested in the intersection between Multimedia and Backend.
 - 🎯 Looking for internship opportunities.
 - 📍 Located in Alicante, Spain
-- 
+  
 ## 🛠️ Tech Stack
 
 ### Frontend Development
@@ -37,7 +37,7 @@ I'm a **Multimedia Engineering** student at the University of Alicante, with an 
 - Complete RESTful API with JWT authentication.
 - React frontend with state management.
 - CRUD operations and robust validations.
-- 
+  
 ## 🎓 Education & Certifications
 - 📚 **Bachelor's Degree in Multimedia Engineering** - University of Alicante (4th year)
 - 🏆 **Cambridge English B2 Certificate**
