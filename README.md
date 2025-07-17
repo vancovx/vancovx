@@ -45,6 +45,6 @@ Soy estudiante de **Ingeniería Multimedia** en la Universidad de Alicante, con 
 
 ## 🎓 Formación & Certificaciones
 
-- 📚 **Grado en Ingeniería Multimedia** - Universidad de Alicante (3º curso)
+- 📚 **Grado en Ingeniería Multimedia** - Universidad de Alicante (4º curso)
 - 🏆 **Cambridge English B2 Certificate**
 
