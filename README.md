@@ -1,11 +1,9 @@
-# 👋 ¡Hi! I'm Vanessa Covrig
-
-Soy estudiante de **Ingeniería Multimedia** en la Universidad de Alicante, con interés en el **desarrollo Backend**. Mi enfoque principal está en tecnologías web modernas y el desarrollo Full-Stack.
-
-- 💡 Interesada en la intersección entre Multimedia y Backend.
-- 🎯 Buscando oportunidades de prácticas.
-- 📍 Ubicada en Alicante, España
-
+# 👋 Hi! I'm Vanessa Covrig
+I'm a **Multimedia Engineering** student at the University of Alicante, with an interest in **Backend development**. My main focus is on modern web technologies and Full-Stack development.
+- 💡 Interested in the intersection between Multimedia and Backend.
+- 🎯 Looking for internship opportunities.
+- 📍 Located in Alicante, Spain
+- 
 ## 🛠️ Tech Stack
 
 ### Frontend Development
@@ -16,7 +14,6 @@ Soy estudiante de **Ingeniería Multimedia** en la Universidad de Alicante, con 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
 
 ### Backend Development
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -34,18 +31,13 @@ Soy estudiante de **Ingeniería Multimedia** en la Universidad de Alicante, con 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-
-## 🚀 Proyectos Destacados
-
-### 🌐 [Aplicación de Gestión de Assets con MERN](https://github.com/vancovx/BULL3D)
+## 🚀 Featured Projects
+### 🌐 [Asset Management Application with MERN](https://github.com/vancovx/BULL3D)
 **Tech Stack:** React, Node.js, Express, MongoDB.
-- API RESTful completa con autenticación JWT.
-- Frontend React con gestión de estado.
-- CRUD operations y validaciones robustas.
-
-
-## 🎓 Formación & Certificaciones
-
-- 📚 **Grado en Ingeniería Multimedia** - Universidad de Alicante (4º curso)
+- Complete RESTful API with JWT authentication.
+- React frontend with state management.
+- CRUD operations and robust validations.
+- 
+## 🎓 Education & Certifications
+- 📚 **Bachelor's Degree in Multimedia Engineering** - University of Alicante (4th year)
 - 🏆 **Cambridge English B2 Certificate**
-
