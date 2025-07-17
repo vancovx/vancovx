@@ -29,6 +29,9 @@ Soy estudiante de **Ingeniería Multimedia** en la Universidad de Alicante, con 
 
 ### Multimedia & 3D
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%232C2C2C.svg?style=for-the-badge&logo=figma&logoColor=white)
+
 
 
 ## 🚀 Proyectos Destacados
