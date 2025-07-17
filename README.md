@@ -29,6 +29,7 @@ Soy estudiante de **Ingeniería Multimedia** en la Universidad de Alicante, con 
 ![Figma](https://img.shields.io/badge/Figma-%232C2C2C.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ### Tools & Others
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
